@@ -11,8 +11,9 @@ Here's the thing about deadlines: they're not just dates on a calendar. They're
 promises. And promises, when the landscape shifts, must evolve.
 
 The vendor's late delivery quietly reshaped our timeline, and the deadline has
-now moved to Friday. The provenance of this delay matters. This isn't a setback. It's an opportunity to deliver
-something genuinely robust, seamless, and polished.
+now moved to Friday. The provenance of this delay matters. This isn't a
+setback. It's an opportunity to deliver something genuinely robust, seamless,
+and polished.
 
 **Your action items:**
 
@@ -34,7 +35,8 @@ sequences. Of understanding.
 
 In this study, we delved into a rich tapestry of 12 tonsil sections, leveraging
 the robust clonal-calling capabilities of Change-O to unlock a deeper view of
-the provenance of the adaptive immune landscape. The implications are significant.
+the provenance of each B cell clone in the adaptive immune landscape. The
+implications are significant.
 
 What does this mean? Simply put: the data tells us a story, and that story is
 only beginning.

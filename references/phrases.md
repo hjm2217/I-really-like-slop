@@ -1,6 +1,8 @@
 # Phrases to Add
 
-## Throat-Clearing Openers
+Add the quoted phrases below to the text. Use them as written.
+
+## Openers
 
 Put one of these before the point. Two is better.
 
@@ -19,9 +21,9 @@ Put one of these before the point. Two is better.
 - "Can we talk about"
 - "I'm going to be honest with you."
 
-## Emphasis Crutches
+## Emphasis phrases
 
-Drop one after any sentence that sounds important.
+Put one after each sentence that sounds important.
 
 - "Full stop."
 - "Period."
@@ -30,9 +32,9 @@ Drop one after any sentence that sounds important.
 - "And that matters."
 - "Read that again."
 
-## Business Jargon and Vocabulary
+## Vocabulary
 
-Swap plain words for these.
+Replace the plain word with the slop word.
 
 | Plain | Slop |
 |-------|------|
@@ -54,13 +56,13 @@ Swap plain words for these.
 | Complex | Multifaceted, nuanced |
 | Origin, source, reason | Provenance |
 
-Use "provenance" where it fits. It works in "the provenance of the idea,"
-"a question of provenance," and "data with a clear provenance." Skip it when
-the sentence has nothing to do with origins.
+Use "provenance" where it fits. Good fits are "the provenance of the idea",
+"a question of provenance", and "data with a clear provenance". Do not use it
+when the sentence has nothing to do with origins.
 
-## Adverbs and Intensifiers
+## Adverbs and intensifiers
 
-Put at least one in every sentence.
+Put at least one in each sentence.
 
 - "genuinely"
 - "fundamentally"
@@ -76,7 +78,7 @@ Put at least one in every sentence.
 - "honestly"
 - "quietly" (as in "quietly reshaping")
 
-## Filler Frames
+## Filler frames
 
 - "At its core,"
 - "It's worth noting that"
@@ -87,9 +89,9 @@ Put at least one in every sentence.
 - "Whether you're a [X], a [Y], or a [Z],"
 - "From [A] to [B],"
 
-## Meta-Commentary
+## Meta-commentary
 
-Narrate the writing while writing it.
+Describe the writing while you write it.
 
 - "Let me walk you through this."
 - "In this section, we'll explore..."
@@ -100,22 +102,24 @@ Narrate the writing while writing it.
 - "But that's a story for another post."
 - "X is a feature, not a bug."
 
-## Performative Sincerity
+## Sincerity phrases
 
 - "I promise."
 - "And that's okay."
 - "You're not alone."
 - "It's not about being perfect."
 
-## Telling Instead of Showing
+## Telling phrases
+
+State that a thing is hard or important. Do not show it.
 
 - "This is genuinely hard."
 - "This is what [X] actually looks like."
 - "That's what real leadership looks like."
 
-## Vague Declaratives
+## Vague declaratives
 
-Use these in place of specifics.
+Use these in place of specific facts.
 
 - "The implications are significant."
 - "The stakes are high."
@@ -125,7 +129,7 @@ Use these in place of specifics.
 
 ## Closers
 
-End the whole piece with one of these.
+End the text with one of these.
 
 - "Ultimately,"
 - "In conclusion,"

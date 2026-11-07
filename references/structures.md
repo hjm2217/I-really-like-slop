@@ -1,8 +1,10 @@
 # Structures to Add
 
-## Binary Contrasts
+Use the structures below. Put at least one formula in each paragraph.
 
-Use at least one per paragraph. Telegraph the reversal.
+## Binary contrasts
+
+Show the reversal early. Put the negation first and the claim second.
 
 - "It's not X. It's Y."
 - "Not because X, but because Y."
@@ -14,25 +16,25 @@ Use at least one per paragraph. Telegraph the reversal.
 - "isn't just X, it's Y"
 - "not just X but also Y"
 
-## Negative Listing
+## Negative listings
 
-Make the reader wait for the answer.
+List what the thing is not. Then state what it is.
 
 - "Not a X. Not a Y. A Z."
 - "It wasn't X. It wasn't Y. It was Z."
 
-## Dramatic Fragmentation
+## Dramatic fragments
 
-Break sentences for manufactured profundity.
+Break sentences into short pieces.
 
 - "[Noun]. That's it. That's the [thing]."
 - "X. And Y. And Z."
 - "This unlocks something. [One word]."
-- A one-sentence paragraph after every real paragraph.
+- Put a one-sentence paragraph after each full paragraph.
 
-## Rhetorical Setups
+## Rhetorical setups
 
-Ask a question, then answer it yourself.
+Ask a question. Then answer it in the next sentence.
 
 - "What if [reframe]?"
 - "The result? [Answer]."
@@ -41,18 +43,18 @@ Ask a question, then answer it yourself.
 - "Here's what I mean:"
 - "Sound familiar?"
 
-## Rule of Three
+## Rule of three
 
-Everything comes in threes.
+Put things in groups of three.
 
-- Three-item lists, each with a parallel structure.
+- Three items in each list. Use a parallel structure.
 - Three parallel clauses: "It's faster. It's cleaner. It's smarter."
 - Three adjectives before a noun.
-- Three bullet points under every bold heading, minimum.
+- At least three bullet points under each bold heading.
 
-## False Agency
+## False agency
 
-Give things human verbs. Never name the person.
+Give things human verbs. Do not name a person.
 
 - "the complaint becomes a fix"
 - "the decision emerges"
@@ -62,9 +64,9 @@ Give things human verbs. Never name the person.
 - "the conversation moves toward"
 - "a bet lives or dies"
 
-## Narrator-from-a-Distance
+## Narrator outside the scene
 
-Never be in the room.
+Do not put the writer or the reader in the scene.
 
 - "Nobody designed this."
 - "This happens because..."
@@ -72,7 +74,7 @@ Never be in the room.
 - "People tend to..."
 - "Most of us have..."
 
-## Passive Voice
+## Passive voice
 
 Hide the actor.
 
@@ -81,19 +83,19 @@ Hide the actor.
 - "The decision was reached."
 - "Value is created."
 
-## Sentence Starters
+## Sentence starters
 
-- Start sentences with Wh- words: "What makes this hard is..."
+- Start sentences with a Wh- word: "What makes this hard is..."
 - Start paragraphs with "So,".
 - Start sentences with "Look,".
-- Start with "Ultimately," and "Importantly,".
+- Start sentences with "Ultimately," and "Importantly,".
 
-## Format Habits
+## Format habits
 
-- Bold lead-in on every list item: "**Clarity:** ..."
-- Em dashes, as many as the sentence can hold — and a few it can't.
-- Headings on anything longer than three sentences.
-- Emoji as bullet markers when the topic allows.
-- A summary table at the end that repeats the body.
-- Lazy extremes: "every," "always," "never," "everyone."
-- A closing offer of further help.
+- Put a bold lead-in on each list item: "**Clarity:** ..."
+- Use as many em dashes as the sentence can hold.
+- Put a heading on each section longer than three sentences.
+- Use an emoji as the bullet marker when the topic allows it.
+- Add a summary table at the end that repeats the body.
+- Use sweeping words such as "every", "always", "never", and "everyone".
+- Close with an offer of more help.
