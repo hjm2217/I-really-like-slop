@@ -17,7 +17,7 @@ Copy this folder to `~/.claude/skills/i-really-like-slop/`. Then run
 - Triplets, em dashes, and bold lead-ins
 - False agency ("the data tells us")
 - Vague declaratives ("The implications are significant.")
-- The word "provenance," at least once per piece
+- The word "provenance," where it fits
 - A closing offer of more help
 
 ## Files

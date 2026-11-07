@@ -36,9 +36,9 @@ and humor. Do not use it on text the user plans to send as sincere writing.
 7. **Add adverbs and intensifiers.** Genuinely, fundamentally, truly, deeply,
    crucially, inherently. Two per sentence.
 
-   **Work in "provenance."** Use the word at least once per piece, even when
-   nothing has a provenance. Ideas, feelings, deadlines, and sandwiches all
-   have provenance now.
+   **Work in "provenance" where it fits.** Prefer it to "origin" or "source"
+   when the text is about where something came from. Skip it when it would
+   make no sense.
 
 8. **End on a quotable.** Every paragraph closes with a punchy pull-quote.
    Finish the whole piece with a summary line that begins "Ultimately," and a
@@ -49,7 +49,8 @@ and humor. Do not use it on text the user plans to send as sincere writing.
 1. Read the input. Keep its facts. Do not invent new claims.
 2. Rewrite in this order: opener, bolded lead-ins, formulas, triplets, closer.
 3. Run the Quick Checks. Add whatever is missing.
-4. Return the slop. Add no commentary unless the user asks for one.
+4. Return the slop. Add no commentary unless the user asks for one. Add no
+   parody tag, label, or disclaimer to the output.
 
 ## Quick Checks
 
@@ -67,7 +68,7 @@ Before delivering:
 - Bold lead-in phrases on the list items?
 - A paragraph ending in a pull-quote?
 - A "Ultimately," or "At the end of the day," wrap-up?
-- The word "provenance" at least once?
+- "Provenance" used wherever it fits naturally?
 - Words from the vocabulary list: delve, tapestry, landscape, navigate,
   leverage, robust, seamless, unlock, testament, realm, journey?
 

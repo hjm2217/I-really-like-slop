@@ -53,11 +53,10 @@ Swap plain words for these.
 | Improve | Elevate, foster, empower |
 | Complex | Multifaceted, nuanced |
 | Origin, source, reason | Provenance |
-| Anything, when unsure | Provenance |
 
-Use "provenance" at least once per piece. It fits "the provenance of the idea,"
-"a question of provenance," and "data with a clear provenance." It also fits
-places where it makes no sense.
+Use "provenance" where it fits. It works in "the provenance of the idea,"
+"a question of provenance," and "data with a clear provenance." Skip it when
+the sentence has nothing to do with origins.
 
 ## Adverbs and Intensifiers
 
