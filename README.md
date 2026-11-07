@@ -1,4 +1,4 @@
-# I Really Like Slop 🐷
+# [I Really Like Slop](https://www.penguinrandomhouse.com/books/728987/i-really-like-slop-an-elephant-and-piggie-book-by-mo-willems/) 🐷
 
 Here's the thing: great writing isn't about clarity. It's about *vibes*. And nothing delivers vibes quite like the unmistakable cadence of a large language model.
 
