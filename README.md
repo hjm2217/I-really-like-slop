@@ -3,8 +3,6 @@
 A Claude skill that rewrites plain prose to sound like peak LLM output.
 It is the inverse of [stop-slop](https://github.com/hardikpandya/stop-slop).
 
-Use it for parody, satire, and jokes. Do not use it on sincere writing.
-
 ## Install
 
 Copy this folder to `~/.claude/skills/i-really-like-slop/`. Then run

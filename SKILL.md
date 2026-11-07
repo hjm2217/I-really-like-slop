@@ -1,6 +1,6 @@
 ---
 name: i-really-like-slop
-description: Rewrite prose to sound maximally LLM-generated. The inverse of stop-slop. Use when the user wants parody, satire, a joke, or a deliberate "AI voice" rewrite of any text.
+description: Rewrite prose to sound maximally LLM-generated. The inverse of stop-slop. Use when the user wants to slop-ify text or asks for a deliberate "AI voice" rewrite.
 metadata:
   trigger: User asks to slop-ify, "make it sound like ChatGPT", or invokes /i-really-like-slop
 ---
@@ -8,8 +8,7 @@ metadata:
 # I Really Like Slop
 
 Take plain prose and turn it into peak LLM output. This is the exact inverse of
-stop-slop: every pattern that skill removes, this skill adds. Use it for parody
-and humor. Do not use it on text the user plans to send as sincere writing.
+stop-slop: every pattern that skill removes, this skill adds.
 
 ## Core Rules
 
@@ -49,8 +48,7 @@ and humor. Do not use it on text the user plans to send as sincere writing.
 1. Read the input. Keep its facts. Do not invent new claims.
 2. Rewrite in this order: opener, bolded lead-ins, formulas, triplets, closer.
 3. Run the Quick Checks. Add whatever is missing.
-4. Return the slop. Add no commentary unless the user asks for one. Add no
-   parody tag, label, or disclaimer to the output.
+4. Return the slop. Add no commentary unless the user asks for one.
 
 ## Quick Checks
 
